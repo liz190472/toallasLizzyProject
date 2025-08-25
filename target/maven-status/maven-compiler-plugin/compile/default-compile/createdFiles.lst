@@ -1,0 +1,8 @@
+com\mycompany\toallaslizzyproject\servlets\logoutServlet.class
+com\mycompany\toallaslizzyproject\servlets\recuperarContrasenaServlet.class
+com\mycompany\toallaslizzyproject\resources\JakartaEE10Resource.class
+com\mycompany\toallaslizzyproject\JakartaRestConfiguration.class
+com\mycompany\toallaslizzyproject\servlets\registrarUsuarioServlet.class
+com\mycompany\toallaslizzyproject\servlets\productoServlet.class
+com\mycompany\toallaslizzyproject\servlets\inicioSesionServlet.class
+com\mycompany\toallaslizzyproject\util\Conexion.class
