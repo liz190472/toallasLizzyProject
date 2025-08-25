@@ -74,10 +74,10 @@ private static final String PASSWORD = "";
 Ejecutar tomcat 10.1
 
 ### utilizar el nombre de usuario y contraseña para poder acceder a la ejecucion con tomcat
-Usuario: lisha
-Contraseña: 2903
+- Usuario: lisha
+- Contraseña: 2903
 Y también:
-Usuario: Milena Orozco
-Contraseña: 1265
+- Usuario: Milena Orozco
+- Contraseña: 1265
 
 💡 Importante: La lógica implementada corresponde únicamente a los módulos Usuarioy Producto, aunque la BD incluye más tablas para un futuro desarrollo completo.
